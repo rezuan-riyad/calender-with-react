@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/calender-with-react/static/js/main.8b7acc61.chunk.js",
+    "main.js.map": "/calender-with-react/static/js/main.8b7acc61.chunk.js.map",
+    "runtime-main.js": "/calender-with-react/static/js/runtime-main.355d31cf.js",
+    "runtime-main.js.map": "/calender-with-react/static/js/runtime-main.355d31cf.js.map",
+    "static/js/2.a64d277f.chunk.js": "/calender-with-react/static/js/2.a64d277f.chunk.js",
+    "static/js/2.a64d277f.chunk.js.map": "/calender-with-react/static/js/2.a64d277f.chunk.js.map",
+    "index.html": "/calender-with-react/index.html",
+    "static/js/2.a64d277f.chunk.js.LICENSE.txt": "/calender-with-react/static/js/2.a64d277f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.355d31cf.js",
+    "static/js/2.a64d277f.chunk.js",
+    "static/js/main.8b7acc61.chunk.js"
+  ]
+}
